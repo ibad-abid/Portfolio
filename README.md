@@ -1,5 +1,4 @@
-# Portfolio# 💫 
-About Me:
+# About Me # 💫 
 I'm Currently Working on frontend Technologies like HTML, CSS, JavaScript, SASS, and Bootstrap<br>I am looking to collaborate on projects that help me to make my skills<br>I am looking to help you to build your portfolio, and LinkedIn profile and improve your Frontend skills<br>I am currently learning advanced javascript   <br>Ask me about frontend technologies, frameworks performance optimization, testing and debugging<br>
 
 
